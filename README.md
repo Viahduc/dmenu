@@ -1,4 +1,6 @@
 # dmenu
 dracula themed dmenu
 
-currently doesn't work
+List of patches: border, caseinsensitive, dracula, highlight, lineheight, morecolors, mouse supports and numbers.
+
+Self-customized
